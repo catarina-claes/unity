@@ -28,7 +28,7 @@
 - [Image Effects](https://www.youtube.com/watch?v=9tjYz6Ab0oc)
 - [Game Looks GOOD](https://www.youtube.com/watch?v=nvbQ9_bzx1k)
 
-##NPC
+## NPC
 - [Pathfinding](https://www.youtube.com/watch?v=jvtFUfJ6CP8)
 - [BOSS](https://www.youtube.com/watch?v=AD4JIXQDw0s)
 - [AI](https://www.youtube.com/watch?v=rhoQd6IAtDo&list=PLBIb_auVtBwDgHLhYc-NG633rTbTPim9z)
